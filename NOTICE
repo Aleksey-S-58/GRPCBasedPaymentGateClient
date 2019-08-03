@@ -1,0 +1,21 @@
+
+The folowing dependencies and plugins were used:
+
+org.springframework.boot spring-boot-starter-parent 2.1.0.RELEASE
+https://github.com/spring-projects/spring-framework/blob/master/src/docs/dist/license.txt
+https://spring.io/
+org.springframework.boot spring-boot-maven-plugin 2.1.0.RELEASE
+https://github.com/spring-projects/spring-boot
+
+io.github.lognet grpc-spring-boot-starter 3.2.0
+https://mvnrepository.com/artifact/io.github.lognet/grpc-spring-boot-starter
+https://github.com/LogNet/grpc-spring-boot-starter/blob/master/LICENSE
+
+kr.motd.maven os-maven-plugin 1.6.1
+https://github.com/trustin/os-maven-plugin/blob/master/LICENSE.txt
+
+org.xolstice.maven.plugins protobuf-maven-plugin 0.6.1
+https://github.com/xolstice/protobuf-maven-plugin/blob/master/LICENSE
+https://github.com/xolstice/protobuf-maven-plugin/blob/master/NOTICE
+https://github.com/xolstice/protobuf-maven-plugin/blob/master/AUTHORS
+https://github.com/xolstice/protobuf-maven-plugin/blob/master/CONTRIBUTORS
